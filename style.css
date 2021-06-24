@@ -1,0 +1,33 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+#campus {
+
+    width: 60%;
+    height: 60%;
+
+}
+
+body {
+    text-align: center;
+
+}
+
+#welcome iframe {
+
+    margin-top: 10%;
+}
+
+#work {
+    border-radius: 40%;
+
+}
